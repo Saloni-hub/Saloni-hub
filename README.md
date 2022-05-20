@@ -8,7 +8,7 @@ I'm Saloni Paney from UP, and I am frontend developer, I really enjoy learning l
 Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Locofast 
-- 🌱 I’m currently learning React Native Flutter 
+- 🌱 I’m currently learning React Native 
 - 💬 Ask me about React, Javascript,CSS,HTML. 
 
 
