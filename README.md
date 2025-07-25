@@ -31,7 +31,7 @@ March 2023 - Present
   
 ### Software Development Engineer (SDE-1)  
 Locofast, Remote  
-January 2021 - March 2023
+September 2021 - March 2023
 - 🚀 Implemented user-friendly and responsive applications using modern design principles.
 - 👥 Collaborated with colleagues to optimize application performance.
 - 💳 Integrated the Razorpay payment gateway for seamless online transactions.
@@ -44,7 +44,7 @@ May 2022 - December 2022
 
 ### Intern  
 Newton School, Remote  
-July 2020 - December 2020
+March 2022 - December 2020
 - 🌐 Developed full-stack web applications using Node.js, React.js, Express.js, and MongoDB.
 - 📚 Gained proficiency in HTML, CSS, JavaScript, Bootstrap, and more.
 
