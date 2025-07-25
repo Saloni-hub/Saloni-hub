@@ -44,7 +44,7 @@ May 2022 - December 2022
 
 ### Intern  
 Newton School, Remote  
-March 2022 - December 2020
+January 2021 - August 2021
 - 🌐 Developed full-stack web applications using Node.js, React.js, Express.js, and MongoDB.
 - 📚 Gained proficiency in HTML, CSS, JavaScript, Bootstrap, and more.
 
